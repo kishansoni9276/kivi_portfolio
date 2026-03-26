@@ -183,8 +183,8 @@ export default function CV() {
           <CVSection title="Education" last>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
               <CVEdu degree="Bachelor of Technology – Computer Science and Engineering" institution="Lovely Professional University" location="Punjab, India" period="Aug 2023 – Present" grade="CGPA: 6.4" />
-              <CVEdu degree="Intermediate" institution="RAV Public School" location="Lucknow, UP" period="Apr 2022 – Mar 2023" grade="93%" />
-              <CVEdu degree="Matriculation" institution="Takshiila Academy" location="Ambedkar Nagar, UP" period="Apr 2020 – Mar 2021" grade="75%" />
+              <CVEdu degree="Intermediate" institution="RAV Public School" location="Gomtinagar, UP" period="Apr 2022 – Mar 2023" grade="93%" />
+              <CVEdu degree="Matriculation" institution="Takshiila Academy" location="Akbarpur, Ambedkar Nagar, UP" period="Apr 2020 – Mar 2021" grade="75%" />
             </div>
           </CVSection>
         </div>
