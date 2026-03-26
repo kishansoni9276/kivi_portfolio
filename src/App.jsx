@@ -13,7 +13,7 @@ export default function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false)
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/kivi_portfolio/">
       <div className="page-layout">
         <Sidebar isOpen={sidebarOpen} onClose={() => setSidebarOpen(false)} />
         <MobileNav onToggle={() => setSidebarOpen(o => !o)} isOpen={sidebarOpen} />
